@@ -1,0 +1,38 @@
+        /*applies to everything*/
+        *{
+            margin: 0;
+            padding: 0;
+            background-color: #9A945E;
+            
+        }
+
+        /*font application*/
+        h1, h2, h3, h4, h5, h5, p, a, body, nav li{
+            font-family: 'Lexend Deca';
+            font-weight: normal;
+            text-decoration: none;
+            color: #B02100;
+        }
+
+        /*header nav?*/
+        .header-nav{
+            padding:10px;
+            margin: 10px;
+            display: flex;
+            justify-content: flex-start;
+            text-align: left;
+            font-size: 25px;
+            word-spacing: 20px;
+            
+        }
+
+        /*footer nav?*/
+        .footer-nav{
+            text-align: center;
+            font-size: 25px;
+        }
+
+        .content{
+            font-size: 25px;
+
+        }
